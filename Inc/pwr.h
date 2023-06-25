@@ -4,7 +4,7 @@
  *  Created on: Feb 17, 2022
  *      Author: Medusa
  */
-
+ 
 #ifndef PWR_H_
 #define PWR_H_
 void reset_clock();
