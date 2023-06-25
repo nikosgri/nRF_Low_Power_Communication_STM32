@@ -19,6 +19,7 @@
 #include "i2c_lcd1602.h"
 #include "keypad.h"
 
+
 //Variables
 uint32_t ms_time = 0; 			//Used by delay_ms function
 uint16_t led_ms = 0;			//Time counter for blinking led
