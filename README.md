@@ -14,3 +14,4 @@ presses a button of the keypad a message is transmitted directly to the other mi
 
 #### Protocols
 At this project I have created two basic protocols for communication. The first one is the SPI (Serial Peripheral Interface), which is for communicating with the nRF and the second one is I2C Inter-Integrated Circuit, which is the main protocol where we can communicate with the LCD. At the same time at my project you can see my approach on how I handle Switch debouncing at the keyboard. 
+ 
